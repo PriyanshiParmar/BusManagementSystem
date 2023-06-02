@@ -1,0 +1,11 @@
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.Form1.resources
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Priyanshi\Desktop\Priyanshi\College\Sem6\WSD\BusManagement\ClientApplication\obj\Debug\ClientApplication.pdb
